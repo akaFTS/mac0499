@@ -1,7 +1,4 @@
-/coverage
-/dist
-/node_modules
-npm-debug.log*
-.cache/
-.parcel-cache/
 .DS_Store
+Thumbs.db
+.aleph/
+dist/
